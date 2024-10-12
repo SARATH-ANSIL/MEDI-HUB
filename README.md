@@ -1,4 +1,4 @@
-# Medi-Hub - Medical Records and AI-Powered Skin Disease Detection
+# Medi-Hub - Medical Records Management System and AI-Powered Skin Disease Detection
 
 Medi-Hub is a web-based platform that serves as a centralized hub for storing and managing medical records, with additional features to assist caregivers and healthcare professionals. The system also includes an AI-powered tool for detecting skin diseases and offering treatment suggestions. The application is designed with user-friendly functionality, allowing both patients and medical practitioners to maintain accurate medical histories and ensure emergency notifications are sent when needed.
 
